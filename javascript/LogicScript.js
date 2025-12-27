@@ -9,7 +9,7 @@
                             text : "Little memories that built you"
                         },
                         {
-                            img : "images/ArviPP.jpg",
+                            img : "images/Arvin_Image.jpeg",
                             text : "Those growing years"
                         },
                         {
@@ -21,7 +21,7 @@
                             text : "Still chasing them"
                         },
                         {
-                            img : "images/ArviPP.jpg",
+                            img : "images/Arvin_Image.jpeg",
                             text : "And today… it’s YOU 🎉"
                         }
 
