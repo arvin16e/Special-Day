@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/css/style.css">
+    <title>VerifyOTP</title>
+</head>
+<body>
+    <h3>This is meant only for you.</h3>
+    <p>Today’s date unlocks what comes next.</p>
+    <input type="text" id="otpInput1" maxlength="1" inputmode="numeric">
+    <input type="text" id="otpInput2" maxlength="1" inputmode="numeric">
+    <input type="text" id="otpInput3" maxlength="1" inputmode="numeric"> 
+    <input type="text" id="otpInput4" maxlength="1" inputmode="numeric"> <br>
+    <button id="submit" onclick="verifyOtp()">submit</button>
+    <p id="wrongInput"></p>
+
+    <Script src="/javascript/LogicScript.js" defer></Script>
+</body>
+</html>
